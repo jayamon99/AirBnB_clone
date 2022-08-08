@@ -1,4 +1,4 @@
-
+#!/usr/bin/python3
 class Hero():
     def __init__(self, name):
         self.__name = name
